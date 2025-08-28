@@ -5,11 +5,11 @@
 ## 周计划
 
 ### 第 1 周（2025-08-28 → 2025-09-03）
-**本周聚焦**：SI Ch.2；Python Ch.1–2；LC数组/哈希
+**本周聚焦**：SI Ch.3；Python Ch.3–4；LC数组/哈希
 
 **本周任务**：
-- [ ] SI Ch.2 精读 + 习题8–12题
-- [ ] Python for Data Analysis Ch.1–2（pandas基础）
+- [-] SI Ch.3 精读 + 习题8–12题
+- [ ] Python for Data Analysis Ch.3–4（pandas基础）
 - [ ] LeetCode 数组/哈希 10题（每日2题+复盘）
 
 **本周自检（填写）**：
