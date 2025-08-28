@@ -8,7 +8,7 @@
 **本周聚焦**：SI Ch.3；Python Ch.3–4；LC数组/哈希
 
 **本周任务**：
-- [*] SI Ch.3 精读 + 习题8–12题
+- [ ] SI Ch.3 精读 + 习题8–12题
 - [ ] Python for Data Analysis Ch.3–4（pandas基础）
 - [ ] LeetCode 数组/哈希 10题（每日2题+复盘）
 
